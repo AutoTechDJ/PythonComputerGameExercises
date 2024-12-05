@@ -15,10 +15,10 @@ for guessesTaken in range(6):
     guess = int(guess)
 
     if guess < number:
-         print('Your guess is too high.') # Eight spaces in front of "print"
+        print('Your guess is too low.') # Eight spaces in front of "print"
 
     if guess > number:
-            print('Your guess is too high.')
+        print('Your guess is too high.')
 
     if guess == number:
             break
