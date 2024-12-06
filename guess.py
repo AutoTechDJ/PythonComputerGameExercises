@@ -15,7 +15,7 @@ for guessesTaken in range(6):
     guess = int(guess)
 
     if guess < number:
-         print('Your guess is too high.') # Eight spaces in front of "print"
+         print('Your guess is too low.') # Eight spaces in front of "print"
 
     if guess > number:
             print('Your guess is too high.')
@@ -25,8 +25,8 @@ for guessesTaken in range(6):
 
 if guess == number:
     guessesTaken = str(guessesTaken + 1)
-     print('Good job, ' + myName + '! You guessed my number in' + guessesTaken + 'guesses!')
+    print('Good job, ' + myName + '! You guessed my number in' + guessesTaken + 'guesses!')
     
 if guess != number:
     number = str(number)
-     print('Nope. The number I was thinking of was' + number + '.')
+    print('Nope. The number I was thinking of was' + number + '.')
