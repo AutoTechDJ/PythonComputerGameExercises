@@ -1,0 +1,20 @@
+the player decides betweeen two caves, which hold either treasure or certain doom
+
+How to Play Dragon Realm
+
+in this game, the player is in a land full of dragons. the dragons all live in caves with their large piles of collected treasurre. some dragons are
+friendly and share their treasure. Other dragons are hungry and eat anyone who enters their cave. The player approaches two caves, one with friendly
+dragon and the other with hungry dragon, but doesn't know which dragon is in which cave. The player must choose betweeen the two.
+
+TOPICS COVERED 
+
+Flowcharts
+creating your own functions with the def keyword
+multiline strings
+while statements
+the and, or, and not boolean operators
+truth tables
+the return keyword
+global and local variable scope
+parameters and arguments
+the sleep() function  
