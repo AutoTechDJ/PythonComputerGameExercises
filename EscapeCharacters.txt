@@ -1,0 +1,5 @@
+\\    Backslash(\)
+\'    Single quote(')
+\"    Double quote(")
+\n    Newline
+\t    Tab
